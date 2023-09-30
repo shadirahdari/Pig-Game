@@ -1,2 +1,2 @@
 # Pig-Game
-Pig-gamebyShadi.surge.sh
+https://pig-gamebyshadi.surge.sh/
